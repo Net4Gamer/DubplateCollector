@@ -15,7 +15,6 @@ This project uses SQLite as a lightweight local database and provides simple, me
   - Export-style format: `Artist – Title [EXT]`
 - Export your full dubplate catalog to a TXT file
 - Duplicate protection
-- Navigation-friendly UI with **Back** option in every menu
 - Clean, readable console interface
 
 ---
@@ -41,3 +40,4 @@ pip install pyinstaller
 pyinstaller --onefile "./Dubplate Collector.py"
 
 The resulting EXE will appear in: dist/dubplates.exe
+
