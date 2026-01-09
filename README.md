@@ -1,4 +1,4 @@
-# DubplateCollector
+# Dubplate Collector
 
 A minimalistic console-based tool for maintaining a personal dubplate database.  
 Designed for DJs and collectors who store exclusive or rare dubplates and want a fast, local, and organized way to manage their library.
@@ -40,4 +40,5 @@ pip install pyinstaller
 pyinstaller --onefile "./Dubplate Collector.py"
 
 The resulting EXE will appear in: dist/dubplates.exe
+
 
