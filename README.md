@@ -19,7 +19,7 @@ This project uses SQLite as a lightweight local database and provides simple, me
 
 ---
 
-## 📂 Track Structure
+## 📂 DB Structure
 
 Each entry in the database contains:
 
@@ -40,6 +40,7 @@ pip install pyinstaller
 pyinstaller --onefile "./Dubplate Collector.py"
 
 The resulting EXE will appear in: dist/Dubplate Collector.exe
+
 
 
 
