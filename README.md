@@ -10,7 +10,7 @@ This project uses SQLite as a lightweight local database and provides simple, me
 ## 🎧 Features
 
 - Add, delete, and search tracks  
-- Import tracklists from two formats:
+- Import tracklists from txt in two formats:
   - `Artist - Title.ext`
   - Export-style format: `Artist – Title [EXT]`
 - Export your full dubplate catalog to a TXT file
@@ -40,6 +40,7 @@ pip install pyinstaller
 pyinstaller --onefile "./Dubplate Collector.py"
 
 The resulting EXE will appear in: dist/Dubplate Collector.exe
+
 
 
 
