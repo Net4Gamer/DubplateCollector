@@ -39,6 +39,7 @@ pip install pyinstaller
 2. Build executable:
 pyinstaller --onefile "./Dubplate Collector.py"
 
-The resulting EXE will appear in: dist/dubplates.exe
+The resulting EXE will appear in: dist/Dubplate Collector.exe
+
 
 
